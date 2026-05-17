@@ -80,6 +80,12 @@ The application provides:
 * Category distribution graphs
 * Live prediction system
 
+# ▶️ How to Run the Project
+Install Required Libraries
+pip install streamlit pandas scikit-learn nltk matplotlib seaborn
+Run the Application
+python -m streamlit run app.py
+
 # 💡 Business Use Case
 This system can help:
 * SaaS companies
